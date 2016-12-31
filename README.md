@@ -17,11 +17,11 @@ Index     | Challenge                    | Solution
 02        | [Roman Numerals][7]          | [View Solution][8] 
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
-[2]:
+[2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
 [3]:https://www.hackerrank.com/contests/projecteuler/challenges/euler089
-[4]:
+[4]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler89.clj
 [5]:https://www.hackerrank.com/challenges/super-digit
-[6]:
+[6]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/func_proc/super_digits.clj
 [7]:https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers
-[8]:
+[8]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/func_proc/fibonacci.clj
 
