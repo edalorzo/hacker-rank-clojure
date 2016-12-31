@@ -14,7 +14,7 @@ Index     | Challenge                    | Solution
 Index     | Challenge                    | Solution           
 ----------| -----------------------------| -------------------- 
 01        | [Super Digits][5]            | [View Solution][6] 
-02        | [Roman Numerals][7]          | [View Solution][8] 
+02        | [Fibonacci Numbers][7]       | [View Solution][8] 
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
