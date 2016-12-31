@@ -1,6 +1,6 @@
 ## Hacker Rank
 
-In an effort to learn Clojure I've been working on HackerRank problems.
+In an effort to learn Clojure I've been working on HackerRank problems. The following is the list of problems for which I was able to pass all tests.
 
 ### Project Euler
 
