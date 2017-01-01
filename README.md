@@ -4,17 +4,17 @@ In an effort to learn Clojure I've been working on HackerRank problems. The foll
 
 ### Project Euler
 
-Index     | Challenge                    | Solution            | Date
-----------| -----------------------------| --------------------| ---
-10        | [Summation of primes][1]     | [View Solution][2]  | 12/16
-89        | [Roman Numerals][3]          | [View Solution][4]  | 12/16
+Index     | Challenge                    |Difficulty | Solution            | Date
+----------| -----------------------------|-----------| --------------------| ---
+10        | [Summation of primes][1]     |Medium     | [View Solution][2]  | 12/16
+89        | [Roman Numerals][3]          |Easy       | [View Solution][4]  | 12/16
 
 ### Functional Programming
 
-Index     | Challenge                    | Solution            | Date
-----------| -----------------------------| --------------------| ---
-01        | [Super Digits][5]            | [View Solution][6]  | 12/16
-02        | [Fibonacci Numbers][7]       | [View Solution][8]  | 12/16
+Index     | Challenge                    |Difficulty | Solution            | Date
+----------| -----------------------------|-----------| --------------------| ---
+01        | [Super Digits][5]            |Medium     | [View Solution][6]  | 12/16
+02        | [Fibonacci Numbers][7]       |Easy       | [View Solution][8]  | 12/16
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
