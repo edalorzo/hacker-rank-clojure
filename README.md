@@ -4,18 +4,18 @@ In an effort to learn Clojure I've been working on HackerRank problems. The foll
 
 ### Project Euler
 
-Index     | Challenge                        |Difficulty | Solution            | Date
-----------| ---------------------------------|-----------| --------------------| -------
-10        | [Summation of primes][1]         |Medium     | [View Solution][2]  | 12/2016
-89        | [Roman Numerals][3]              |Easy       | [View Solution][4]  | 12/2016
-09        | [Special Pythagorean Triplet][9] |Easy       | [View Solution][10] | 01/2017
+Index     | Challenge                        |Difficulty | Solution            |Level | Date
+----------| ---------------------------------|-----------| --------------------|------| -------
+10        | [Summation of primes][1]         |Medium     | [View Solution][2]  | 100  | 12/2016
+89        | [Roman Numerals][3]              |Easy       | [View Solution][4]  | 100  | 12/2016
+09        | [Special Pythagorean Triplet][9] |Easy       | [View Solution][10] | 100  | 01/2017
 
 ### Functional Programming
 
-Index     | Challenge                    |Difficulty | Solution            | Date
-----------| -----------------------------|-----------| --------------------| --------
-01        | [Super Digits][5]            |Medium     | [View Solution][6]  | 12/2016
-02        | [Fibonacci Numbers][7]       |Easy       | [View Solution][8]  | 12/2016
+Index     | Challenge                    |Difficulty | Solution            |Level | Date
+----------| -----------------------------|-----------| --------------------|------| --------
+01        | [Super Digits][5]            |Medium     | [View Solution][6]  | 20   | 12/2016
+02        | [Fibonacci Numbers][7]       |Easy       | [View Solution][8]  |  2   | 12/2016
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
