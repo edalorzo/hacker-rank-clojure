@@ -46,6 +46,10 @@
      (list a b c))))
 
 
+;; The solution consists in finding if the sum S of a given primitive triples is a 
+;; factor of X, if so, depending on the quotient, we can calcualate a non-primitive
+;; Pythagorean triple that represent X perfectly.
+
 (defn get-triples-for 
   "Gets a sequence with all Pythagorean triples of x"
   [x]
