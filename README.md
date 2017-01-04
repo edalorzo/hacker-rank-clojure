@@ -25,6 +25,6 @@ Index     | Challenge                    |Difficulty | Solution            | Dat
 [6]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/func_proc/super_digits.clj
 [7]:https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers
 [8]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/func_proc/fibonacci.clj
-[9]: https://www.hackerrank.com/contests/projecteuler/challenges/euler009
-[10]: :https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler09.clj
+[9]:https://www.hackerrank.com/contests/projecteuler/challenges/euler009
+[10]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler09.clj
 
