@@ -18,6 +18,12 @@ Index     | Challenge                    | Solution            |Level | Date
 01        | [Super Digits][5]            | [View Solution][6]  | 20   | 12/2016
 02        | [Fibonacci Numbers][7]       | [View Solution][8]  |  2   | 12/2016
 
+### Hour of Code 28 Challenge
+
+Index     | Challenge                    | Solution            |Level | Date
+----------| -----------------------------| --------------------|------| --------
+01        | [Great XOR][11]              | [View Solution][12] | 30   | 01/2017
+
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
 [3]:https://www.hackerrank.com/contests/projecteuler/challenges/euler089
@@ -28,4 +34,5 @@ Index     | Challenge                    | Solution            |Level | Date
 [8]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/func_proc/fibonacci.clj
 [9]:https://www.hackerrank.com/contests/projecteuler/challenges/euler009
 [10]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler09.clj
-
+[11]:https://www.hackerrank.com/contests/w28/challenges/the-great-xor
+[12]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/week_of_code/greatest_xor.clj
