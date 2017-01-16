@@ -5,7 +5,7 @@
 ;(def big-num (vec (map str (apply str (repeat 200000 "968")))))
 ;(defn my-reload [] (require '[week-of-code.lucky-number-eight :as woc] :reload))
 
-(defn sum [a b]
+(defn sum [^Long a ^Long b]
   (let [a (mod a 1000000007)
         b (mod b 1000000007)
         c (mod (+ a b) 1000000007)]
@@ -13,10 +13,11 @@
 
 (defn divisible-by-eight? [xs]
   (if (not-empty xs)
-    (let [divides? (fn [x y] (zero? (mod y x)))]
+    (let [divides? (fn [x y] (zero? (mod y x)))
+          parse-int (fn [^String s] (Integer/parseInt s))]
       (->> xs
            (str/join)
-           (Integer/parseInt)
+           (parse-int)
            (divides? 8)))
     false))
 
