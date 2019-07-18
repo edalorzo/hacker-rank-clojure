@@ -7,9 +7,9 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (defn decode-step [s]
- (cond (= s \U) 1
-       (= s \D) -1
-       :else (throw (AssertionError. (str "Unsupported step type: " s)))))
+ (case s
+  \U 1
+  \D -1))
 
 (defn at-sea-level? [level]
  (= level 0))
@@ -28,18 +28,19 @@
  {:pre [(>= n 2)]}
  (let [hike (map decode-step s)]
   (loop [[x & xs] hike level-before 0 rem-steps (dec n) valleys 0]
-   (let [level-now (+ level-before x)]
-    (if (not= (Math/abs level-now) rem-steps) 
-      (if (end-of-valley? level-before level-now)
-       (if (not-empty xs)
-        (recur xs level-now (dec rem-steps) (inc valleys))
-        (inc valleys))
-       (if (not-empty xs)
-        (recur xs level-now (dec rem-steps) valleys)
-        valleys))
-      (if (below-sea-level? level-now)
-       (inc valleys)
-       valleys))))))
+    (let [level-now (+ level-before x)]
+     (if (not= (Math/abs level-now) rem-steps)        
+       (if (end-of-valley? level-before level-now)        
+        (let [valleys (inc valleys)] 
+          (if (empty? xs)
+           valleys 
+           (recur xs level-now (dec rem-steps) valleys)))
+        (if (empty? xs)
+         valleys 
+         (recur xs level-now (dec rem-steps) valleys)))
+       (if (below-sea-level? level-now)
+         (inc valleys)
+         valleys))))))
 
     
 
