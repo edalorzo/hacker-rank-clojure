@@ -1,0 +1,1574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"na",
+				"namespace"
+			],
+			[
+				"pro",
+				"PromiseKeeper"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"categ",
+				"categories"
+			],
+			[
+				"COmma",
+				"CommandHandler"
+			],
+			[
+				"Inven",
+				"InventoryItemCheckedOut"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"tra",
+				"transaction"
+			],
+			[
+				"log",
+				"log_response"
+			],
+			[
+				"trans",
+				"transtype"
+			],
+			[
+				"client",
+				"clientExceptionClassifier"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"fin",
+				"finally"
+			],
+			[
+				"le",
+				"length_when_called"
+			],
+			[
+				"tri",
+				"trigger_find_upc"
+			],
+			[
+				"Property",
+				"Property1"
+			],
+			[
+				"column",
+				"columnLine"
+			],
+			[
+				"labe",
+				"label_str"
+			],
+			[
+				"is",
+				"iscvp"
+			],
+			[
+				"upd",
+				"update_logs"
+			],
+			[
+				"lab",
+				"label"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"val",
+				"validate_request"
+			],
+			[
+				"shi",
+				"shipmentId"
+			],
+			[
+				"fa",
+				"facility"
+			],
+			[
+				"me",
+				"measures"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"cvp",
+				"cvpErrorCode"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"cv",
+				"cvpErrorCode"
+			],
+			[
+				"sta",
+				"statusCode"
+			],
+			[
+				"sh",
+				"shipmentId"
+			],
+			[
+				"un",
+				"undef"
+			],
+			[
+				"bande",
+				"banded_setting"
+			],
+			[
+				"D",
+				"Dumper"
+			],
+			[
+				"st",
+				"stack2"
+			],
+			[
+				"stac",
+				"stack2"
+			],
+			[
+				"RICO",
+				"PUERTO_RICO"
+			],
+			[
+				"E",
+				"EventBus"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/interview_prep/problems.clj",
+			"settings":
+			{
+				"buffer_size": 834,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project.clj",
+			"settings":
+			{
+				"buffer_size": 467,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hacker-rank-clojure.sublime-project",
+			"settings":
+			{
+				"buffer_size": 134,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Enhanced Clojure/Leiningen.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					""
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Documentation"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Clean"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Run"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Test"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Re-test"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Uberjar"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Jar"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Check"
+				]
+			],
+			[
+				"Packages/Enhanced Clojure/Leiningen.sublime-build",
+				"Lein: Documentation"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 239.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Settings",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Clojure REPL",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"Lein",
+				"Build With: Leiningen - Lein: Test"
+			],
+			[
+				"RepL Clo",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"Lein ",
+				"Build With: Leiningen - Lein: Test"
+			],
+			[
+				"Repl Clo",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"Build",
+				"Build With: Leiningen - Lein: Test"
+			],
+			[
+				"Leing",
+				"Build With: Leiningen - Lein: Test"
+			],
+			[
+				"REPL  CLoj",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"parinfeer",
+				"Parinfer: Enable / Toggle Mode"
+			],
+			[
+				"REPL ",
+				"SublimeREPL: Shell"
+			],
+			[
+				"REPL CLo",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"Parinfer",
+				"Parinfer: Enable / Toggle Mode"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"jekyll new",
+				"Jekyll: New post"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git ps",
+				"Git: Push"
+			],
+			[
+				"javaScr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Syntax J",
+				"Set Syntax: Java"
+			],
+			[
+				"git comi",
+				"Git: Commit"
+			],
+			[
+				"jekyll pro",
+				"Jekyll: Promote draft to post"
+			],
+			[
+				"jek",
+				"Jekyll: New draft"
+			],
+			[
+				"GIT COM",
+				"Git: Commit"
+			],
+			[
+				"GIT A",
+				"Git: Add All"
+			],
+			[
+				"gith push",
+				"Git: Push"
+			],
+			[
+				"jekyl dra",
+				"Jekyll: Promote draft to post"
+			],
+			[
+				"jekyl ope",
+				"Jekyll: Open post"
+			],
+			[
+				"jeky",
+				"Jekyll: Promote draft to post"
+			],
+			[
+				"jekyl",
+				"Jekyll: Promote draft to post"
+			],
+			[
+				"gi com",
+				"Git: Commit"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"git push c",
+				"Git: Push Current Branch"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jekyl con",
+				"Jekyll: Edit _config.yml"
+			],
+			[
+				"je",
+				"Jekyll: Open post"
+			],
+			[
+				"jekyll",
+				"Jekyll: Open post"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"liquid",
+				"Set Syntax: Liquid HTML"
+			],
+			[
+				"git hi",
+				"Git: Commit history"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add al",
+				"Git: Add All"
+			],
+			[
+				"git puhs",
+				"Git: Push Current Branch"
+			],
+			[
+				"giadd",
+				"Git: Add All"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"git a",
+				"Git: Add Current File"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
+			[
+				"git Add",
+				"Git: Add Current File"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"SCSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff",
+				"Git: Diff Staged Files"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"Java",
+				"Set Syntax: Java"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sy",
+				"Set Syntax: Perl"
+			],
+			[
+				"SFT",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"git blame",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"bash",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"Markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Bl",
+				"Git: Blame"
+			],
+			[
+				"SFTP",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"Bookma",
+				"Bookmarks: Toggle"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"SFTP B",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Git",
+				"Git: Blame"
+			],
+			[
+				"Git  Bl",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"Git bl",
+				"Git: Blame"
+			],
+			[
+				"Book",
+				"Bookmarks: Select Next"
+			],
+			[
+				"boo",
+				"Bookmarks: Toggle"
+			],
+			[
+				"Git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"Git Comm",
+				"Git: Commit"
+			],
+			[
+				"Git Add",
+				"Git: Add Current File"
+			],
+			[
+				"JAva",
+				"Set Syntax: Java"
+			],
+			[
+				"Git B",
+				"Git: Blame"
+			],
+			[
+				"Git Show",
+				"Git: Show Commit By Hash"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git b",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"SFPT",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Remove Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"git bran",
+				"Git: New Branch"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"SF",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Git com",
+				"Git: Commit"
+			],
+			[
+				"Git Com",
+				"Git: Commit"
+			],
+			[
+				"Mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Git add",
+				"Git: Add All"
+			],
+			[
+				"git Com",
+				"Git: Commit"
+			],
+			[
+				"Git a",
+				"Git: Add All"
+			],
+			[
+				"Git Ad",
+				"Git: Add All"
+			],
+			[
+				"git psu",
+				"Git: Push"
+			],
+			[
+				"Git ad",
+				"Git: Add All"
+			],
+			[
+				"Git pus",
+				"Git: Push"
+			],
+			[
+				"Git A",
+				"Git: Add All"
+			],
+			[
+				"Git Push",
+				"Git: Push"
+			],
+			[
+				"Git Co",
+				"Git: Commit"
+			],
+			[
+				"SLQ",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 519.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/src",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/src/interview_prep",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/src/project_euler",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/src/week_of_code",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/test",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/test/interview_prep",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/test/project_euler"
+	],
+	"file_history":
+	[
+		"/Users/edalorzo/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/hacker-rank-clojure.sublime-project",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/src/interview_prep/problems.clj",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/test/interview_prep/problems_test.clj",
+		"/Users/edalorzo/Library/Application Support/Sublime Text 3/Packages/Parinfer/Parinfer.sublime-settings",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/src/project_euler/euler10.clj",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-06-13-q4prep-plan.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-06-13-ffd-okr-q32019.md",
+		"/Users/edalorzo/Desktop/reported-orders-failed.csv",
+		"/Users/edalorzo/Desktop/paypal-error-results.txt",
+		"/Users/edalorzo/reported-orders-failed.csv",
+		"/Users/edalorzo/Desktop/load-test-results-orders-2019-06-17.txt",
+		"/Users/edalorzo/Desktop/orders-load-test-01.txt",
+		"/Users/edalorzo/Desktop/load-test-shipments-2019-06-17.sql",
+		"/Users/edalorzo/Desktop/load-test-orders-2019-06-17-query.sql",
+		"/Users/edalorzo/Desktop/transfered-by-atg-01.txt",
+		"/Users/edalorzo/Desktop/load-test-results-shipments-2019-06-17.txt",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/--Load Test from 2019-06-17 15:34:00 - 15:54:00",
+		"/Users/edalorzo/Desktop/load-test-shipments.sql",
+		"/Users/edalorzo/Desktop/shipments-load-test-02.txt",
+		"/Users/edalorzo/Desktop/shipments-load-test-01.txt",
+		"/Users/edalorzo/Desktop/atg-orders-01.sql",
+		"/Users/edalorzo/Desktop/atg-orders-02.sql",
+		"/Users/edalorzo/Desktop/transfered-by-atg-02.txt",
+		"/Users/edalorzo/Desktop/load-test-orders.sql",
+		"/Users/edalorzo/Desktop/orders-load-test-02.txt",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-03-19-ffd-okr-q22019.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-04-03-event-monitoring-initiative.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-03-06-erp-tech-debt-preview.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-03-20-project-unify.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-04-08-agile-modeling-initiative.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/untitled.java",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/agile-modeling-standards.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-01-09-ffd-okr-q12019.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-10-08-ffd-okr-q42018.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-10-01-q4prep-troubleshooting-plan-2018.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-10-08-fulfillment-team-okr-q418.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-03-23-redis-for-arch-evolution.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_sass/vendor/_bootstrap.min.scss",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_includes/head.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_layouts/default.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_sass/partials/_single.sass",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/.gitignore",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_site/css/main.css",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/perfect-pick-simulator.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-03-27-event-design-principles.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/jdk-upgrade-cadence.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/img/feature-beautiful-wood-fence.jpg",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/event-design-principles.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/category/architecture/index.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-03-23-event-design-principles.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/img/feature-troopers-flag.jpg",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/redis-event-dedup.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-03-12-annual-objectives.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-01-09-fulfillment-team-okr-q12019.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/author-arodriguez.md",
+		"/Users/edalorzo/Desktop/orders-failed.json",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-03-15-cvp-packing-state.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-12-01-fulfillment-accomplishments-2018.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-03-12-shipment-manager-evolution.md",
+		"/Users/edalorzo/Desktop/parter-orders-list.txt",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_config.yml",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/index.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_layouts/post-sidebar.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_includes/footer-single.html",
+		"/Users/edalorzo/Desktop/orders.json",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/author-jmeza.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/author-ifernandez.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/author-edalorzo.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/author-dzuniga.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_layouts/author.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-01-02-tech-debt-plan.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/author-bcook.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-10-29-gremlin-test-results.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/team.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/fulfillment.sublime-project",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/category/defects/index.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/category/planning/index.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_includes/footer-related-posts.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_includes/footer-page.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/404.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/author-jesquivel.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/category/initiatives/index.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/css/main.scss",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_site/404.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-cvp-client-design.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-conveyor-reverse-engineering.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_layouts/page.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_layouts/home.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_layouts/category.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_layouts/home-alt.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_layouts/home-alt-2.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-shipmode-aggreggation.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-redis-event-dedup.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-project-unify-v2.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-pp-inventory-synchronization.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-picklist-redesign.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-jdk-upgrade-cadence.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-getting-rid-of-xroads.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-getting-rid-of-nodjs-app.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-events-metadata.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-event-log-independence.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-cvp-highly-available.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_drafts/2019-03-13-wms-manager-modularization.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2019-03-13-getting-rid-of-xroads.md",
+		"/Users/edalorzo/Desktop/console.log",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/Requisitos:",
+		"/Users/edalorzo/Sandbox/backcountry/applications/interchange/interchange/lib/Vend/Payment/ICS.pm",
+		"/Users/edalorzo/Desktop/BFStats.sql",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2017-20-03-demistifying-order-lines.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_sass/_base.scss",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/category/fulfillment/index.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_sass/_type.sass",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_sass/_nojs.sass",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_sass/_mixins.sass",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_sass/_global.sass",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highslide.css",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_layouts/post.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-12-01-shipping-label-service.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/category/erp/index.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-12-01-place-order-service.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-12-01-auto-ship-check-service.md",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/category/packing/index.html",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highlight/monokai.css",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highlight/murphy.css",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highlight/native.css",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highlight/pastie.css",
+		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highlight/perldoc.css"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"test-gdc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/interview_prep/problems.clj",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Clojure/Clojure.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "project.clj",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Clojure/Clojure.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "hacker-rank-clojure.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 193.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 369.0
+	},
+	"output.sftp":
+	{
+		"height": 237.0
+	},
+	"pinned_build_system": "Packages/Enhanced Clojure/Leiningen.sublime-build",
+	"project": "hacker-rank-clojure.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tema",
+				"team.md"
+			],
+			[
+				"print_form",
+				"catalogs/manager/usertag/print_form.tag"
+			],
+			[
+				"site",
+				"etc/site.cfg"
+			],
+			[
+				"ics.pm",
+				"interchange/lib/Vend/Payment/ICS.pm"
+			],
+			[
+				"cfg.",
+				"config/local.cfg.tpl"
+			],
+			[
+				"CVDC.pm",
+				"interchange/custom/lib/Backcountry/Admin/Conveyor/Management/CVDC.pm"
+			],
+			[
+				"slcw",
+				"interchange/custom/lib/Backcountry/Admin/Conveyor/Routing/SLCW.pm"
+			],
+			[
+				"packing",
+				"catalogs/manager/actionmap/packing.am"
+			],
+			[
+				"payment_service",
+				"catalogs/manager/actionmap/payment_service.am"
+			],
+			[
+				"ICS.pm",
+				"interchange/lib/Vend/Payment/ICS.pm"
+			],
+			[
+				"PaymentService",
+				"interchange/custom/lib/Backcountry/Admin/PaymentService.pm"
+			],
+			[
+				"address_",
+				"bin/address_verification"
+			],
+			[
+				"addressver",
+				"interchange/custom/lib/Backcountry/XMLGen/AddressVerification.pm"
+			],
+			[
+				"shipping_grou",
+				"catalogs/manager/views/fulfillment/order_view/shipping_groups_display.html"
+			],
+			[
+				"admin/order_view",
+				"catalogs/manager/pages/admin/order_view.html"
+			],
+			[
+				"ups_clo",
+				"bin/ups_closeout.pl"
+			],
+			[
+				"Connec",
+				"interchange/custom/lib/Backcountry/XMLGen/Connectship.pm"
+			],
+			[
+				"site.c",
+				"etc/site.cfg"
+			],
+			[
+				"monitor_order",
+				"ansible/roles/nagios/files/nrpe_checks/monitor_order_deltas.pl"
+			],
+			[
+				"Connectship.pm",
+				"interchange/custom/lib/Backcountry/XMLGen/Connectship.pm"
+			],
+			[
+				"Picking.pm",
+				"interchange/custom/lib/Backcountry/Admin/Picking.pm"
+			],
+			[
+				"PaymentService.pm",
+				"interchange/custom/lib/Backcountry/Admin/PaymentService.pm"
+			],
+			[
+				"Util.pm",
+				"interchange/lib/Vend/Util.pm"
+			],
+			[
+				"packing.pm",
+				"interchange/custom/lib/Backcountry/Admin/Packing.pm"
+			],
+			[
+				"picking.pm",
+				"interchange/custom/lib/Backcountry/Admin/Picking.pm"
+			],
+			[
+				"Util",
+				"interchange/lib/Vend/Util.pm"
+			],
+			[
+				"Conne",
+				"interchange/custom/lib/Backcountry/XMLGen/Connectship.pm"
+			],
+			[
+				"print",
+				"catalogs/manager/usertag/print_form.tag"
+			],
+			[
+				"add",
+				"bin/address_verification"
+			],
+			[
+				"AddressV",
+				"interchange/custom/lib/Backcountry/XMLGen/AddressVerification.pm"
+			],
+			[
+				"AccessTag.pm",
+				"interchange/custom/lib/Backcountry/Admin/Util/AccessTag.pm"
+			],
+			[
+				"AddressVer",
+				"interchange/custom/lib/Backcountry/XMLGen/AddressVerification.pm"
+			],
+			[
+				"ADD",
+				"bin/address_verification"
+			],
+			[
+				"order_vi",
+				"catalogs/manager/pages/admin/order_view.html"
+			],
+			[
+				"Packing.pm",
+				"interchange/custom/lib/Backcountry/Admin/Packing.pm"
+			],
+			[
+				"ConnectShip.pm",
+				"interchange/custom/lib/Backcountry/XMLGen/Connectship.pm"
+			],
+			[
+				"BPCSer",
+				"interchange/custom/lib/Backcountry/Admin/Controller/Fulfillment/BPCService.pm"
+			],
+			[
+				"ContinuationScope.java",
+				"src/java.base/share/classes/java/lang/ContinuationScope.java"
+			],
+			[
+				"Continuation.java",
+				"src/java.base/share/classes/java/lang/Continuation.java"
+			],
+			[
+				"Fiber.java",
+				"src/java.base/share/classes/java/lang/Fiber.java"
+			],
+			[
+				"SessionFile",
+				"interchange/lib/Vend/SessionFile.pm"
+			],
+			[
+				"backend_cc",
+				"interchange/usertag/backend_cc_manager.tag"
+			],
+			[
+				"ShipmentMn",
+				"interchange/custom/lib/Backcountry/Admin/Fulfillment/ShipmentManager.pm"
+			],
+			[
+				"PaymentSer",
+				"interchange/custom/lib/Backcountry/Admin/PaymentService.pm"
+			],
+			[
+				"CONTROLLER",
+				"interchange/custom/lib/Backcountry/Controller.pm"
+			],
+			[
+				"PackingService",
+				"interchange/custom/lib/Backcountry/Admin/Controller/Fulfillment/PackingService.pm"
+			],
+			[
+				"ConnectshipPm",
+				"interchange/custom/lib/Backcountry/XMLGen/Connectship.pm"
+			],
+			[
+				"Packing.am",
+				"catalogs/manager/actionmap/packing.am"
+			],
+			[
+				"pay.am",
+				"catalogs/manager/actionmap/payment_service.am"
+			],
+			[
+				"interchange.cf",
+				"interchange/interchange.cfg"
+			],
+			[
+				"matching.pm",
+				"interchange/custom/lib/Backcountry/Admin/Matching.pm"
+			],
+			[
+				"match",
+				"interchange/custom/lib/Backcountry/Admin/Matching.pm"
+			],
+			[
+				"matching.js",
+				"var/www/html/js/sites/manager/matching.js"
+			],
+			[
+				"pick.html",
+				"catalogs/manager/views/picking/pick.html"
+			],
+			[
+				"picking.js",
+				"var/www/html/js/sites/manager/picking.js"
+			],
+			[
+				"packing.js",
+				"var/www/html/js/sites/manager/packing.js"
+			],
+			[
+				"Picking.html",
+				"catalogs/manager/views/picking/pick.html"
+			],
+			[
+				"Picking.js",
+				"var/www/html/js/sites/manager/picking.js"
+			],
+			[
+				"picking.html",
+				"catalogs/manager/pages/admin/picking.html"
+			],
+			[
+				"Packing.js",
+				"var/www/html/js/sites/manager/packing.js"
+			],
+			[
+				"Connecthip.pm",
+				"interchange/custom/lib/Backcountry/XMLGen/Connectship.pm"
+			],
+			[
+				"PackingSe",
+				"interchange/custom/lib/Backcountry/Admin/Controller/Fulfillment/PackingService.pm"
+			],
+			[
+				"site.cf",
+				"etc/site.cfg"
+			],
+			[
+				"site.cfg",
+				"etc/site.cfg"
+			],
+			[
+				"manager.yml",
+				"interchange/conf/manager/connectship.yml"
+			],
+			[
+				"ups_s",
+				"interchange/conf/manager/ups_ship.yml"
+			],
+			[
+				"packingserv",
+				"interchange/custom/lib/Backcountry/Admin/Controller/Fulfillment/PackingService.pm"
+			],
+			[
+				"connectship.pm",
+				"interchange/custom/lib/Backcountry/XMLGen/Connectship.pm"
+			],
+			[
+				"packingser",
+				"interchange/custom/lib/Backcountry/Admin/Controller/Fulfillment/PackingService.pm"
+			],
+			[
+				"connectship.p",
+				"interchange/custom/lib/Backcountry/XMLGen/Connectship.pm"
+			],
+			[
+				"response",
+				"interchange/custom/lib/Vend/Controller/Response.pm"
+			],
+			[
+				"request",
+				"interchange/custom/lib/Vend/Controller/Request.pm"
+			],
+			[
+				"controller",
+				"interchange/custom/lib/Vend/Controller.pm"
+			],
+			[
+				"basecontrol",
+				"interchange/custom/lib/Backcountry/Admin/Controller/BaseController.pm"
+			],
+			[
+				"wrapper",
+				"interchange/custom/lib/Backcountry/Model/Rose/Wrapper.pm"
+			],
+			[
+				"readwrite",
+				"interchange/custom/lib/Backcountry/Model/Rose/ReadWrite.pm"
+			],
+			[
+				"connectship",
+				"interchange/custom/lib/Backcountry/XMLGen/Connectship.pm"
+			],
+			[
+				"connectship.",
+				"catalogs/manager/pages/admin/fulfillment/connectship.html"
+			],
+			[
+				"routing",
+				"interchange/custom/lib/Backcountry/Admin/Conveyor/Routing.pm"
+			],
+			[
+				"conveyor_belt",
+				"catalogs/manager/usertag/conveyor_belt.tag"
+			],
+			[
+				"tote_scan_history",
+				"catalogs/manager/templates/manager/components/tote_scan_history"
+			],
+			[
+				"tote_detail_outbound",
+				"catalogs/manager/views/fulfillment/tote_manager/tote_detail_outbound.html"
+			],
+			[
+				"totemanager.pm",
+				"interchange/custom/lib/Backcountry/Admin/Fulfillment/ToteManager.pm"
+			],
+			[
+				"totes.",
+				"catalogs/manager/actionmap/totes.am"
+			],
+			[
+				"tote_mana",
+				"var/www/html/js/sites/manager/tote_manager.js"
+			],
+			[
+				"tote_manager.js",
+				"var/www/html/js/sites/manager/tote_manager.js"
+			],
+			[
+				"tote_detail",
+				"catalogs/manager/views/fulfillment/tote_manager/tote_detail_inbound.html"
+			],
+			[
+				"cvdc",
+				"interchange/custom/lib/Backcountry/Admin/Conveyor/Management/CVDC.pm"
+			],
+			[
+				"totemana",
+				"interchange/custom/lib/Backcountry/Admin/Fulfillment/ToteManager.pm"
+			],
+			[
+				"cvdc.pm",
+				"interchange/custom/lib/Backcountry/Admin/Conveyor/Management/CVDC.pm"
+			],
+			[
+				"slcw.pm",
+				"interchange/custom/lib/Backcountry/Admin/Conveyor/Routing/SLCW.pm"
+			],
+			[
+				"base.pm",
+				"interchange/custom/lib/Backcountry/Admin/Conveyor/Routing/Base.pm"
+			],
+			[
+				"routing.pm",
+				"interchange/custom/lib/Backcountry/Admin/Conveyor/Routing.pm"
+			],
+			[
+				"conveyorbelt",
+				"interchange/custom/lib/Backcountry/Admin/ConveyorBelt.pm"
+			],
+			[
+				"paymentservice.pm",
+				"interchange/custom/lib/Backcountry/Admin/PaymentService.pm"
+			],
+			[
+				"yesmail",
+				"bin/yesmail_send.sh"
+			],
+			[
+				"transactional",
+				"interchange/custom/lib/Backcountry/XMLGen/TransactionalEmail.pm"
+			],
+			[
+				"skuma",
+				"interchange/custom/lib/Backcountry/Admin/SkuMaking.pm"
+			],
+			[
+				"paymentser",
+				"interchange/custom/lib/Backcountry/Admin/PaymentService.pm"
+			],
+			[
+				"shipmentmanager",
+				"interchange/custom/lib/Backcountry/Admin/Fulfillment/ShipmentManager.pm"
+			],
+			[
+				"connectshipcon",
+				"interchange/custom/lib/Backcountry/Admin/Fulfillment/ConnectshipController.pm"
+			],
+			[
+				"shipcn",
+				"catalogs/manager/actionmap/shipconnectship.am"
+			],
+			[
+				"ship.",
+				"catalogs/manager/views/fulfillment/connectship/ship.html"
+			],
+			[
+				"connectship.js",
+				"var/www/html/js/sites/manager/fulfillment/connectship.js"
+			],
+			[
+				"connect",
+				"interchange/custom/lib/Backcountry/XMLGen/Connectship.pm"
+			],
+			[
+				"ws",
+				"wstl.js"
+			],
+			[
+				"order_view.js",
+				"var/www/html/js/sites/manager/fulfillment/order_view.js"
+			],
+			[
+				"valid",
+				"documents/architecture/validation.rst"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 465.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
