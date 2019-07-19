@@ -6,12 +6,13 @@ In an effort to learn Clojure I've been working on HackerRank problems. The foll
 
 Index     |Category                   |Challenge                         | Solution             | Date
 ----------|---------------------------|----------------------------------| ---------------------| -------
-01        | Project Euler 09          | [Special Pythagorean Triplet][9] | [View Solution][10] | 01/2017
-02        | Project Euler 10          | [Summation of primes][1]         | [View Solution][2]  | 12/2016
-03        | Project Euler 89          | [Roman Numerals][3]              | [View Solution][4]  | 12/2016
-04        | Functional Programming    | [Super Digits][5]                | [View Solution][6]  | 12/2016
-05        | Functional Programming    | [Fibonacci Numbers][7]           | [View Solution][8]  | 12/2016
-06        | Hour of Code 28 Challenge | [Great XOR][11]                  | [View Solution][12] | 01/2017
+01        | Project Euler 09          | [Special Pythagorean Triplet][9] | [View Solution][10]  | 01/2017
+02        | Project Euler 10          | [Summation of primes][1]         | [View Solution][2]   | 12/2016
+03        | Project Euler 89          | [Roman Numerals][3]              | [View Solution][4]   | 12/2016
+04        | Functional Programming    | [Super Digits][5]                | [View Solution][6]   | 12/2016
+05        | Functional Programming    | [Fibonacci Numbers][7]           | [Last Attempt][8]    | 12/2016
+06        | Hour of Code 28 Challenge | [Great XOR][11]                  | [Last Attempt][12]   | 01/2017
+07        | Interview Preparation     | [Counting Vallyes][13]           | [View Solution][14]  | 07/2019
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
@@ -25,3 +26,5 @@ Index     |Category                   |Challenge                         | Solut
 [10]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler09.clj
 [11]:https://www.hackerrank.com/contests/w28/challenges/the-great-xor
 [12]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/week_of_code/greatest_xor.clj
+[13]:https://www.hackerrank.com/challenges/counting-valleys/problem
+[14]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problems.clj
