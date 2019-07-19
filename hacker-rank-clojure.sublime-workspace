@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"counti",
+				"counting-valleys"
+			],
+			[
+				"not",
+				"not="
+			],
+			[
 				"na",
 				"namespace"
 			],
@@ -175,24 +183,24 @@
 			"file": "src/interview_prep/problems.clj",
 			"settings":
 			{
-				"buffer_size": 834,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "project.clj",
-			"settings":
-			{
-				"buffer_size": 467,
+				"buffer_size": 521,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "hacker-rank-clojure.sublime-project",
+			"contents": "\n\nLoad Tests\n\n07/11/2019 6:44:27 PM to 07/12/2019 6:44:27 PM\n07/15/2019 8:30:00 PM to 07/15/2019 11:00:00 PM\n\n* PerfectPick (Douglas)\n* Inventory (Douglas)\n* WMS (Dogulas)\n* WMS Manager (Javi)\n* Shipment Manager (Javi)\n\nTODO's\n\n* Saturday Camp Refresh\n* Monday in Morning apply all settings again.\n* Mock Go Live on Monday 22th (Review with team)\n* Update settings for the real live day.\n* Thursday 18 Calendar Review\n\n\nStart Date: July 28, 2019\nEnd Date: August 10, 2019\n\nLOAD TEST NIGHT JULY 16\n\n* Add more thread to the event log. \n\nrm -Rf shipment-manager.2019-07-15.log shipment-manager.2019-07-16.log shipment-manager-events-log.2019-07-16.log",
 			"settings":
 			{
-				"buffer_size": 134,
+				"buffer_size": 649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/interview_prep/problems_test.clj",
+			"settings":
+			{
+				"buffer_size": 356,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -253,6 +261,54 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"lein",
+				"Build With: Leiningen - Lein: Test"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"lein test",
+				"Build With: Leiningen - Lein: Test"
+			],
+			[
+				"Cl",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"Clo",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"REPL Clo",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"lein tes",
+				"Build With: Leiningen - Lein: Test"
+			],
+			[
+				"Leing tes",
+				"Build With: Leiningen - Lein: Test"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
 			[
 				"Settings",
 				"Preferences: Package Control Settings – Default"
@@ -322,24 +378,8 @@
 				"Git: Push Current Branch"
 			],
 			[
-				"git comm",
-				"Git: Commit"
-			],
-			[
-				"git ad",
-				"Git: Add All"
-			],
-			[
-				"git com",
-				"Git: Commit"
-			],
-			[
 				"git add ",
 				"Git: Add Current File"
-			],
-			[
-				"git add",
-				"Git: Add All"
 			],
 			[
 				"jekyll new",
@@ -732,10 +772,6 @@
 			[
 				"Git Co",
 				"Git: Commit"
-			],
-			[
-				"SLQ",
-				"Set Syntax: SQL"
 			]
 		],
 		"width": 444.0
@@ -769,8 +805,15 @@
 	],
 	"file_history":
 	[
-		"/Users/edalorzo/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/edalorzo/Desktop/queries.sql",
+		"/Users/edalorzo/Desktop/order-time-degradation.txt",
+		"/Users/edalorzo/Desktop/stuck-in-waiting-for-auth.txt",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/src/project_euler/euler89.clj",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/LICENSE",
+		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/project.clj",
+		"/Users/edalorzo/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
 		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/hacker-rank-clojure.sublime-project",
+		"/Users/edalorzo/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/src/interview_prep/problems.clj",
 		"/Users/edalorzo/Sandbox/personal/hacker-rank-clojure/test/interview_prep/problems_test.clj",
 		"/Users/edalorzo/Library/Application Support/Sublime Text 3/Packages/Parinfer/Parinfer.sublime-settings",
@@ -889,14 +932,7 @@
 		"/Users/edalorzo/Sandbox/personal/ticocoding/_layouts/post.html",
 		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-12-01-shipping-label-service.md",
 		"/Users/edalorzo/Sandbox/personal/ticocoding/category/erp/index.html",
-		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-12-01-place-order-service.md",
-		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-12-01-auto-ship-check-service.md",
-		"/Users/edalorzo/Sandbox/personal/ticocoding/category/packing/index.html",
-		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highlight/monokai.css",
-		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highlight/murphy.css",
-		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highlight/native.css",
-		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highlight/pastie.css",
-		"/Users/edalorzo/Sandbox/personal/ticocoding/css/highlight/perldoc.css"
+		"/Users/edalorzo/Sandbox/personal/ticocoding/_posts/2018-12-01-place-order-service.md"
 	],
 	"find":
 	{
@@ -938,18 +974,18 @@
 				{
 					"buffer": 0,
 					"file": "src/interview_prep/problems.clj",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 834,
+						"buffer_size": 521,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								385,
+								385
 							]
 						],
 						"settings":
@@ -960,41 +996,33 @@
 							"syntax": "Packages/Clojure/Clojure.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 117.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 1,
-					"file": "project.clj",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 467,
+						"buffer_size": 649,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								295,
-								295
+								471,
+								471
 							]
 						],
 						"settings":
 						{
+							"auto_name": "",
 							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Clojure/Clojure.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1005,19 +1033,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "hacker-rank-clojure.sublime-project",
+					"file": "test/interview_prep/problems_test.clj",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 134,
+						"buffer_size": 356,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								127,
-								127
+								158,
+								158
 							]
 						],
 						"settings":
@@ -1025,14 +1053,13 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Clojure/Clojure.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1055,12 +1082,6 @@
 				0,
 				1,
 				1
-			],
-			[
-				0,
-				1,
-				1,
-				2
 			]
 		],
 		"cols":
@@ -1071,7 +1092,6 @@
 		"rows":
 		[
 			0.0,
-			0.5,
 			1.0
 		]
 	},
@@ -1105,6 +1125,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"problem",
+				"test/interview_prep/problems_test.clj"
+			],
 			[
 				"tema",
 				"team.md"
@@ -1558,14 +1582,14 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 465.0,
 	"status_bar_visible": true,
 	"template_settings":
