@@ -10,7 +10,7 @@ Index     |Category                   |Challenge                         | Solut
 02        | Project Euler 10          | [Summation of primes][1]         | [View Solution][2]   | 12/2016
 03        | Project Euler 89          | [Roman Numerals][3]              | [View Solution][4]   | 12/2016
 04        | Functional Programming    | [Super Digits][5]                | [View Solution][6]   | 12/2016
-05        | Functional Programming    | [Fibonacci Numbers][7]           | [Last Attempt][8]    | 12/2016
+05        | Functional Programming    | [Fibonacci Numbers][7]           | [View Solution][8]   | 12/2016
 06        | Hour of Code 28 Challenge | [Great XOR][11]                  | [Last Attempt][12]   | 01/2017
 07        | Interview Preparation     | [Counting Valleyes][13]          | [View Solution][14]  | 07/2019
 08        | Interview Preparation     | [Hourglass Sum][15]              | [View Solution][16]  | 07/2019
