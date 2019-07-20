@@ -14,8 +14,8 @@
         (not (and (= y y2) (or (= x x1) (= x x3)))))))
   
 (defn hourglassSum [arr]
- (let [hour-glasses (vec (for [x (range 4) y (range 4)] [x y]))
-       coordinates (vec (for [x (range 6) y (range 6)] [x y]))
+ (let [hour-glasses (for [x (range 4) y (range 4)] [x y])
+       coordinates (for [x (range 6) y (range 6)] [x y])
        by-hg (for [hour-glass hour-glasses]
                (for [[x,y :as coordinate] coordinates 
                      :when (belongs-to? hour-glass coordinate)
