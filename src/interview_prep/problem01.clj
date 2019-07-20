@@ -1,4 +1,4 @@
-(ns interview-prep.problems)
+(ns interview-prep.problem01)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; Hacker Rank Inteview Preparation: Warm-up Challenges

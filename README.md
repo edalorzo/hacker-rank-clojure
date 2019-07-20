@@ -13,6 +13,7 @@ Index     |Category                   |Challenge                         | Solut
 05        | Functional Programming    | [Fibonacci Numbers][7]           | [Last Attempt][8]    | 12/2016
 06        | Hour of Code 28 Challenge | [Great XOR][11]                  | [Last Attempt][12]   | 01/2017
 07        | Interview Preparation     | [Counting Valleyes][13]          | [View Solution][14]  | 07/2019
+08        | Interview Preparation     | [Hourglass Sum][15]              | [View Solution][16]  | 07/2019
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
@@ -27,4 +28,6 @@ Index     |Category                   |Challenge                         | Solut
 [11]:https://www.hackerrank.com/contests/w28/challenges/the-great-xor
 [12]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/week_of_code/greatest_xor.clj
 [13]:https://www.hackerrank.com/challenges/counting-valleys/problem
-[14]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problems.clj
+[14]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem01.clj
+[15]:https://www.hackerrank.com/challenges/2d-array/problem
+[16]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem02.clj
