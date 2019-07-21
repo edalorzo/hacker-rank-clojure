@@ -1,14 +1,6 @@
-(ns interview-prep.problems-test
-    (:require [clojure.test :refer :all]
-            		[interview-prep.problem01 :refer :all]
+(ns interview-prep.problem02-test
+    (:require [clojure.test :refer :all]            		
             		[interview-prep.problem02 :refer :all]))
-
-
-(deftest test-valley-count
- (testing "Counting Valleys"
-  (is (= (counting-valleys 4 "DDUU") 1))  
-  (is (= (counting-valleys 16 "DDDDUUUUDDDDUUUU") 2))
-  (is (= (counting-valleys 6 "DDDUUU") 1))))  
 
 (deftest hour-glass-tests
 

@@ -14,6 +14,7 @@ Index     |Category                   |Challenge                         | Solut
 06        | Hour of Code 28 Challenge | [Great XOR][11]                  | [Last Attempt][12]   | 01/2017
 07        | Interview Preparation     | [Counting Valleyes][13]          | [View Solution][14]  | 07/2019
 08        | Interview Preparation     | [Hourglass Sum][15]              | [View Solution][16]  | 07/2019
+09        | Interview Preparation     | [Array Rotation][17]             | [View Solution][18]  | 07/2019
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
@@ -31,3 +32,5 @@ Index     |Category                   |Challenge                         | Solut
 [14]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem01.clj
 [15]:https://www.hackerrank.com/challenges/2d-array/problem
 [16]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem02.clj
+[17]:https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
+[18]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem03.clj
