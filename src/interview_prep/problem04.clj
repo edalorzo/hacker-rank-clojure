@@ -5,31 +5,37 @@
 ; https://www.hackerrank.com/challenges/new-year-chaos/problem
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+;; Alternative Solution 1: O(n)
+
 (defn- distance [x ys]
-  (if-let [found (take-while #(not= % x) ys)]
-   (inc (count found))
-   0)) 
+  (if-let [found (take 3 (take-while #(not= % x) ys))]
+   (inc (count found)) 0))
 
-(defn- create-expectation [y expected bribery]
+(defn- create-order [y order bribery]
  (if (> bribery 1)
-  (concat [y] (take 1 expected) (drop 2 expected))
-  (concat [y] (drop 1 expected))))       
+  (concat [y] (take 1 order) (drop 2 order))
+  (concat [y] (drop 1 order))))       
 
-(defn- find-bribes [actual expected last-briber briberies] 
- (if-not actual
-  briberies
-  (let [[x & xs] actual [y & ys] expected]
-   (if (= x y)
-    (recur xs ys last-briber briberies)    
-    (let [bribery (distance x ys)]     
-     (if (> bribery 2) 
-       "Too chaotic"
-       (let [ys (create-expectation y ys bribery)
-             briberies (+ briberies bribery)]         
-         (recur xs ys x briberies))))))))
+(defn- find-bribes
+
+  ([queue]
+   (let [size (count queue) 
+         order (range 1 (inc size))]
+    (find-bribes queue order 0)))
+
+  ([queue order bribes] 
+   (if-not queue
+    bribes
+    (let [[x & xs] queue [y & ys] order]
+     (if (= x y)
+      (recur xs ys bribes)    
+      (let [bribed (distance x ys)]     
+       (if (> bribed 2)
+         "Too chaotic"
+         (let [ys (create-order y ys bribed)
+               bribes (+ bribes bribed)]
+           (recur xs ys bribes)))))))))
 
 (defn minimumBribes [q]
- (let [size (count q)
-       actual q
-       expected (range 1 (inc size))]
-   (find-bribes actual expected 0 0)))
+  (find-bribes q))
+
