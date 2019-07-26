@@ -11,10 +11,14 @@
   (if-let [found (take 3 (take-while #(not= % x) ys))]
    (inc (count found)) 0))
 
-(defn- create-order [y order bribery]
+;; Interestingly the use of concat function here
+;; caused stack overflow errors when the input was 10^5
+;; which forced me to spend hackos to figure it out.
+
+(defn- create-order [y [o & os :as order] bribery] 
  (if (> bribery 1)
-  (concat [y] (take 1 order) (drop 2 order))
-  (concat [y] (drop 1 order))))       
+  (cons y (cons o (drop 2 order)))
+  (cons y os)))
 
 (defn- find-bribes
 
@@ -23,7 +27,7 @@
          order (range 1 (inc size))]
     (find-bribes queue order 0)))
 
-  ([queue order bribes] 
+  ([queue order bribes]
    (if-not queue
     bribes
     (let [[x & xs] queue [y & ys] order]
@@ -38,4 +42,13 @@
 
 (defn minimumBribes [q]
   (find-bribes q))
+
+(with-open [r (clojure.java.io/reader "/Users/edalorzo/Desktop/input06.txt")]
+  (binding [*in* r] 
+    (let [t (Integer/parseInt (clojure.string/trim (read-line)))]
+      (doseq [t-itr (range t)]
+        (let [n (Integer/parseInt (clojure.string/trim (read-line)))]
+          (let [q (vec (map #(Integer/parseInt %) (clojure.string/split (read-line) #" ")))]
+            (println (minimumBribes q))))))))
+
 
