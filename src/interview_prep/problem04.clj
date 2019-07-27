@@ -14,6 +14,8 @@
 ;; Interestingly the use of concat function here
 ;; caused stack overflow errors when the input was 10^5
 ;; which forced me to spend hackos to figure it out.
+;;
+;; See https://stuartsierra.com/2015/04/26/clojure-donts-concat
 
 (defn- create-order [y [o & os :as order] bribery] 
  (if (> bribery 1)
@@ -43,12 +45,15 @@
 (defn minimumBribes [q]
   (find-bribes q))
 
-(with-open [r (clojure.java.io/reader "/Users/edalorzo/Desktop/input06.txt")]
-  (binding [*in* r] 
-    (let [t (Integer/parseInt (clojure.string/trim (read-line)))]
-      (doseq [t-itr (range t)]
-        (let [n (Integer/parseInt (clojure.string/trim (read-line)))]
-          (let [q (vec (map #(Integer/parseInt %) (clojure.string/split (read-line) #" ")))]
-            (println (minimumBribes q))))))))
+(comment
+  ;; had to spend hackos to find out why the algorithms was failing
+  ;; it happened to be a stack overflow caused by the concat function. 
+  (with-open [r (clojure.java.io/reader "/Users/edalorzo/Desktop/input06.txt")]
+    (binding [*in* r] 
+      (let [t (Integer/parseInt (clojure.string/trim (read-line)))]
+        (doseq [t-itr (range t)]
+          (let [n (Integer/parseInt (clojure.string/trim (read-line)))]
+            (let [q (vec (map #(Integer/parseInt %) (clojure.string/split (read-line) #" ")))]
+              (println (minimumBribes q)))))))))
 
 
