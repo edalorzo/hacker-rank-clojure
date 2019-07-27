@@ -16,6 +16,7 @@ Index     |Category                   |Challenge                         | Solut
 08        | Interview Preparation     | [Hourglass Sum][15]              | [View Solution][16]  | 07/2019
 09        | Interview Preparation     | [Array Rotation][17]             | [View Solution][18]  | 07/2019
 10        | Interview Preparation     | [New Year Chaos][19]             | [View Solution][20]  | 07/2019
+11        | Functional Programming.   | [Huge GCD][21]                   | [View Solution][22]  | 07/2019
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
@@ -37,3 +38,6 @@ Index     |Category                   |Challenge                         | Solut
 [18]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem03.clj
 [19]:https://www.hackerrank.com/challenges/new-year-chaos/problem
 [20]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem04.clj
+[21]:https://www.hackerrank.com/challenges/huge-gcd-fp/problem
+[22]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/func_proc/huge_gcd.clj
+
