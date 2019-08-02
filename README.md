@@ -20,6 +20,7 @@ Index     |Category                   |Challenge                         | Solut
 12        | Functional Programming    | [Functions or Not?][23]          | [View Solution][24]  | 07/2019
 13        | Interview Preparation     | [Jump on the Clouds][25]         | [View Solution][26]  | 08/2019
 14        | Interview Preparation     | [Making Anagrams][27]            | [View Solution][28]  | 08/2019
+15        | Algorithms                | [Birthday Cake Candles][29]      | [View Solution][30]  | 08/2019
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
@@ -49,3 +50,5 @@ Index     |Category                   |Challenge                         | Solut
 [26]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem06.clj
 [27]:https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
 [28]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem07.clj
+[29]:https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+[30]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/algorithms/birthday-cakes.clj
