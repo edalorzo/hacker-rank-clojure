@@ -21,15 +21,3 @@
                      :when (belongs-to? hour-glass coordinate)
                      :let [value (get (get arr y) x)]] value))]
   (apply max (map #(reduce + 0 %) by-hg))))  
-     
-
-
-                      
-    
-   
- 
-
-
-
-
-

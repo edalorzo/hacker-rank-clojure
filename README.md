@@ -18,6 +18,8 @@ Index     |Category                   |Challenge                         | Solut
 10        | Interview Preparation     | [New Year Chaos][19]             | [View Solution][20]  | 07/2019
 11        | Functional Programming    | [Huge GCD][21]                   | [View Solution][22]  | 07/2019
 12        | Functional Programming    | [Functions or Not?][23]          | [View Solution][24]  | 07/2019
+13        | Interview Preparation     | [Jump on the Clouds][25]         | [View Solution][26]  | 08/2019
+14        | Interview Preparation     | [Making Anagrams][27]            | [View Solution][28]  | 08/2019
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
@@ -43,3 +45,7 @@ Index     |Category                   |Challenge                         | Solut
 [22]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/func_proc/huge_gcd.clj
 [23]:https://www.hackerrank.com/challenges/functions-or-not/problem
 [24]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/func_proc/func_check.clj
+[25]:https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+[26]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem06.clj
+[27]:https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
+[28]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/interview_prep/problem07.clj

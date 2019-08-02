@@ -9,7 +9,7 @@
 
 (comment 
 
-;; Non-tail recursive fibonacci sequence
+;; Non-tail recursive fibonacci sequence.
   
 (defn fibonacci [n]
   {:pre [(> n 0)]}
@@ -21,7 +21,7 @@
 
 (comment
   
-;; Tail recursive fibonacci sequence
+;; Tail recursive fibonacci sequence.
 
 (defn fibonacci [n]
   {:pre [(> n 0)]}
@@ -34,7 +34,7 @@
 )
 
 
-;; Fibonacci O(1)
+;; Fibonacci O(1).
 
 (defn fibonacci [n]
   {:pre [(> n 0)]}
