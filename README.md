@@ -23,6 +23,7 @@ Index     |Category                   |Challenge                         | Solut
 15        | Algorithms                | [Birthday Cake Candles][29]      | [View Solution][30]  | 08/2019
 16        | Coin Change Problem       | [Coin Change Problem][31]        | [View Solution][32]  | 08/2020
 17        | Grading Students          | [Grading Students][33]           | [View Solution][34]  | 08/2020
+18        | Knapsack                  | [Knapsack][35]                   | [View Solution][36]  | 08/2020
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
@@ -55,6 +56,8 @@ Index     |Category                   |Challenge                         | Solut
 [29]:https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 [30]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/algorithms/birthday-cakes.clj
 [31]:https://www.hackerrank.com/challenges/coin-change/problem
-[32]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/algorithms/kinds_of_coin.clj
+[32]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/algorithms/kinds_of_coins.clj
 [33]:https://www.hackerrank.com/challenges/grading/problem
 [34]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/algorithms/grading_students.clj
+[35]:https://www.hackerrank.com/challenges/unbounded-knapsack/problem
+[36]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/algorithms/knapsack.clj
