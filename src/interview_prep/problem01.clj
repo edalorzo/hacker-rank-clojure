@@ -11,8 +11,8 @@
   \D -1))
 
 (comment
-   
-   ;; Solution #1: Using high-order functions 
+
+   ;; Solution #1: Using high-order functions
 
   (defn- valley? [[x y]]
    (and (= x -1) (= y 0)))
@@ -23,12 +23,12 @@
 
    ;; Alternatively
    (defn counting-valleys [n s]
-     (let [hike (reductions + (map decode-step s))] 
+     (let [hike (reductions + (map decode-step s))]
        (count (filter #(= % '(-1 0)) (partition 2 (interleave hike (rest hike)))))))))
 
 (comment
 
- ;; Solution #2: Using a for-loop equivalency 
+ ;; Solution #2: Using a for-loop equivalency
 
   (defn- valley? [altitude step]
       (and (zero? altitude) (pos? step)))
@@ -36,10 +36,10 @@
   (defn counting-valleys [n s]
    (loop [i 0 altitude 0 valleys 0]
       (if (= i n)
-       valleys  
-        (let [step (decode-step (get s i)) 
+       valleys
+        (let [step (decode-step (get s i))
               altitude (+ altitude step)
-              valleys (if (valley? altitude step) (inc valleys) valleys)]            
+              valleys (if (valley? altitude step) (inc valleys) valleys)]
              (recur (inc i) altitude valleys))))))
 
 (comment 

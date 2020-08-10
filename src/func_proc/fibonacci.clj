@@ -48,11 +48,8 @@
 
 
 (comment
-  
 ;; Reads HackerRank input data and solves the problem
-  
+
 (let [n (Integer/parseInt (read-line))]
-  (println (fibonacci n)))
-  
-)
-  
+  (println (fibonacci n))))
+

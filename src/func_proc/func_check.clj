@@ -18,12 +18,13 @@
       (if-not more "YES" (recur more (assoc rel d r))))))
 
 
+;; Reads HackerRank input data and solves the problem
 (comment
   (let [t (Integer/parseInt (str/trim (read-line)))]
     (dotimes [_ t]
       (letfn [(read-pairs []
                (loop [n (Integer/parseInt (str/trim (read-line))) pairs []]
                  (if (zero? n) pairs
-                   (let [pair (str/split (read-line) #" ")]                    
+                   (let [pair (str/split (read-line) #" ")]
                      (recur (dec n) (conj pairs (vec (map #(Integer/parseInt %) pair))))))))]
-       (println (is-function (read-pairs)))))))  
+       (println (is-function (read-pairs)))))))

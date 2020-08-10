@@ -5,13 +5,7 @@
   :target-path "target/%s"
   :warn-on-reflection false
   :plugins [[lein-marginalia "0.9.1"]]
-  :profiles {:uberjar {:aot :all}}
+  :profiles {:uberjar {:aot :all}
+             :dev {:plugins [[com.jakemccrary/lein-test-refresh "0.24.1"]]}}
              ; :repl {:plugins [[venantius/ultra "0.6.0"]]}} 
   :repl-options {:prompt (fn [ns] (str "\u001B[35m[\u001B[34m" ns "\u001B[35m]\u001B[33m cλ:\u001B[m "))})
-                 
-                 
-  
-  
-  
-  
-  

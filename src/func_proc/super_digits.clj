@@ -25,7 +25,7 @@
       (if-not (< n 10)
         (recur n)
         n)))
-        
+
   ([s k]
     (let [n (* (reduce + 0 (explode-str s)) k)]
       (super-digit n))))
