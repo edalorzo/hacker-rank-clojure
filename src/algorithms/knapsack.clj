@@ -7,19 +7,18 @@
 
 (defn- with-array [k arr] (filter #(>= k %1) arr))
 
-(def ks
-  (memoize
-   (fn [k arr]
-     (if (or (empty? arr) (<= k 0))
-       k
-       (loop [xs (lazy-seq (map #(ks (- k %1) (with-array (- k %1) arr)) arr)) found nil]
-         (let [found (if-not found (first xs) (min (first xs) found))]
-           (if (or (zero? found) (empty? (rest xs)))
-             found
-             (recur (rest xs) found))))))))
+(defn- ks [k arr]
+  (if-not (or (empty? arr) (<= k 0))
+    (loop [[x & xs] (lazy-seq (map #(ks (- k %1) (with-array (- k %1) arr)) arr)) found nil]
+      (let [found (if-not found x (min x found))]
+        (if-not (or (zero? found) (empty? xs))
+          (recur xs found)
+          found)))
+    k))
 
 (defn unboundedKnapsack [k arr]
-  (- k (ks k (with-array k arr))))
+  (let [ks (memoize ks)]
+    (- k (ks k (with-array k arr)))))
 
 (comment
   ;;hacker rank input reading
