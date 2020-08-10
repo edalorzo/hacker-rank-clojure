@@ -20,10 +20,10 @@ Index     |Category                   |Challenge                         | Solut
 12        | Functional Programming    | [Functions or Not?][23]          | [View Solution][24]  | 07/2019
 13        | Interview Preparation     | [Jump on the Clouds][25]         | [View Solution][26]  | 08/2019
 14        | Interview Preparation     | [Making Anagrams][27]            | [View Solution][28]  | 08/2019
-15        | Algorithms                | [Birthday Cake Candles][29]      | [View Solution][30]  | 08/2019
-16        | Coin Change Problem       | [Coin Change Problem][31]        | [View Solution][32]  | 08/2020
-17        | Grading Students          | [Grading Students][33]           | [View Solution][34]  | 08/2020
-18        | Knapsack                  | [Knapsack][35]                   | [View Solution][36]  | 08/2020
+15        | Problem Solving           | [Birthday Cake Candles][29]      | [View Solution][30]  | 08/2019
+16        | Problem Solving           | [Coin Change Problem][31]        | [View Solution][32]  | 08/2020
+17        | Problem Solving           | [Grading Students][33]           | [View Solution][34]  | 08/2020
+18        | Problem Solving           | [Knapsack][35]                   | [View Solution][36]  | 08/2020
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
