@@ -25,7 +25,7 @@ Index     |Category                   |Challenge                         | Solut
 17        | Problem Solving           | [Grading Students][33]           | [View Solution][34]  | 08/2020
 18        | Problem Solving           | [Knapsack][35]                   | [View Solution][36]  | 08/2020
 19        | Project Euler 35          | [Circular Primes][37]            | [View Solution][38]  | 08/2020
-20        | Interleaving Strings.     | From Challenges Book             | [View Solution][40]  | 08/2020
+20        | Dynamic Programing        | Interleaving Strings             | [View Solution][40]  | 08/2020
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
