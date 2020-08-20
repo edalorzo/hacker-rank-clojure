@@ -71,9 +71,8 @@
          (map get-product)
          (flatten)
          (sort))))
-  
-  
-(comment  
+
+(comment
 ;; Reads HackerRank input data
 (defn get-input []
   (let [total-lines (Integer/parseInt (read-line))]
@@ -81,7 +80,7 @@
       (Integer/parseInt (read-line)))))
 
 ;; Solves the algorithm
-(let [input (get-input) 
+(let [input (get-input)
       results (find-highest-triple-product input)]
   (doseq [result results]
     (println result)))
