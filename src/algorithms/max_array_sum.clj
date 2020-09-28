@@ -1,45 +1,29 @@
 (ns algorithms.max-array-sum)
 
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Hacker Rank - Problem Solving
 ;; https://www.hackerrank.com/challenges/max-array-sum/problem
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;; [-2, 1, 3, -4, 5]
+(require '[clojure.set :as set])
 
-;; 2:: ss([3, -4, 5])
-;; 2::ss(3::ss([5]))
-;; [2,3,5]
-
-;; [-2, 3, 5]
-;; [-2, 3]
-;; [-2, -4]
-;; [-2, 5]
-;; [1, -4]
-;; [1, 5]
-;; [3, 5]
-
-
-;; [2 3 4 5]
-;; [2 3]  (4 5)
-;;     [2 3 4] (5)
-;;     [2 3 4 5) ()
-;; [2 4] (5)
-;;     [2 4 5] ()
-;; [2 5]
-
-(defn combine [n array]
-  (if (empty? array) array
-      (loop [[x & xs] array result []]
-        (let [ys (conj n x)]
-          (if (empty? xs)
-            (concat result ys)
-            (recur xs (concat result (cons ys (combine ys xs)))))))))
-
-(defn get-subsets [arr]
-  )
+(defn get-subsets [arr acc]
+	(if (seq arr)
+		(let [[x & xs] arr
+          ys (rest xs)
+          c1 (set (for [y ys] (list x y)))
+          zs (take-nth 2 ys)
+          c2 (if (seq zs) (conj c1 (list* x zs)) c1)
+          acc (set/union acc c2)]
+      (recur xs acc))
+    acc))
 
 (defn maxSubsetSum [arr]
-  (->> (get-subsets arr)
-       (map #(reduce + %))
-       (reduce max)))
+  (->> (get-subsets arr #{})
+         (map #(reduce + %))
+         (reduce max)))
+
+(def my-list [-2, 1, 3, -4, 5])
+(get-subsets my-list '())
+(maxSubsetSum my-list)
