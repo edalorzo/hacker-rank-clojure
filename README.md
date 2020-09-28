@@ -24,6 +24,9 @@ Index     |Category                   |Challenge                         | Solut
 16        | Problem Solving           | [Coin Change Problem][31]        | [View Solution][32]  | 08/2020
 17        | Problem Solving           | [Grading Students][33]           | [View Solution][34]  | 08/2020
 18        | Problem Solving           | [Knapsack][35]                   | [View Solution][36]  | 08/2020
+19        | Project Euler 35          | [Circular Primes][37]            | [View Solution][38]  | 08/2020
+20        | Dynamic Programing        | Interleaving Strings             | [View Solution][40]  | 08/2020
+21        | Dynamic Programming       | [The Coin Change Problem][41]    | [View Solution][42]  | 08/2020
 
 [1]:https://www.hackerrank.com/contests/projecteuler/challenges/euler010
 [2]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler10.clj
@@ -61,3 +64,8 @@ Index     |Category                   |Challenge                         | Solut
 [34]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/algorithms/grading_students.clj
 [35]:https://www.hackerrank.com/challenges/unbounded-knapsack/problem
 [36]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/algorithms/knapsack.clj
+[37]:https://www.hackerrank.com/contests/projecteuler/challenges/euler035/problem
+[38]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/project_euler/euler35.clj
+[40]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/algorithms/interleaving_strings.clj
+[41]:https://www.hackerrank.com/challenges/coin-change/problem
+[42]:https://github.com/edalorzo/hacker-rank-clojure/blob/master/src/algorithms/kinds_of_coins.clj
